@@ -1,0 +1,1257 @@
+{
+	"Object": {
+		"types": [
+			{
+				"type": "Male",
+				"folder": "Male/",
+				"max": 6650,
+				"meta": [
+					{
+						"property": "Martian Level",
+						"options": [
+							{
+								"name": "Galaxy",
+								"count": 3900
+							},
+							{
+								"name": "Nebula",
+								"count": 1700
+							},
+							{
+								"name": "Supernova",
+								"count": 1050
+							}
+						]
+					}
+				],
+				"layers": [
+					{
+						"layer": "Background",
+						"folder": "Background/",
+						"options": [
+							{
+								"name": "Paisley",
+								"count": 400
+							},
+							{
+								"name": "Intergalactic1",
+								"count": 300
+							},
+							{
+								"name": "Intergalactic2",
+								"count": 119
+							},
+							{
+								"name": "Orange1",
+								"count": 500
+							},
+							{
+								"name": "Red1",
+								"count": 600
+							},
+							{
+								"name": "Purple1",
+								"count": 500
+							},
+							{
+								"name": "Red2",
+								"count": 500
+							},
+							{
+								"name": "Yellow1",
+								"count": 500
+							},
+							{
+								"name": "Purple2",
+								"count": 400
+							},
+							{
+								"name": "Orange2",
+								"count": 600
+							},
+							{
+								"name": "Intergalactic3",
+								"count": 300
+							},
+							{
+								"name": "Green1",
+								"count": 500
+							},
+							{
+								"name": "Yellow2",
+								"count": 500
+							},
+							{
+								"name": "Blue1",
+								"count": 500
+							},
+							{
+								"name": "Blue2",
+								"count": 431
+							}
+						]
+					},
+					{
+						"layer": "Base",
+						"folder": "Base/",
+						"options": [
+							{
+								"name": "Pink1_JewelEye",
+								"count": 320
+							},
+							{
+								"name": "Red1_AngryEye",
+								"count": 650
+							},
+							{
+								"name": "Green1_AngryEye",
+								"count": 500
+							},
+							{
+								"name": "Blue1_JewelEye",
+								"count": 420
+							},
+							{
+								"name": "Yellow1_AngryEye",
+								"count": 420
+							},
+							{
+								"name": "Green5_AngryEye",
+								"count": 500
+							},
+							{
+								"name": "Red2_OpenEye",
+								"count": 650
+							},
+							{
+								"name": "Blue2_Wink",
+								"count": 420
+							},
+							{
+								"name": "Pink2_WideEye",
+								"count": 320
+							},
+							{
+								"name": "Green2_OpenEye",
+								"count": 500
+							},
+							{
+								"name": "Purple1_OpenEye",
+								"count": 59
+							},
+							{
+								"name": "Green3_WideEye",
+								"count": 160
+							},
+							{
+								"name": "Green4_WideEye",
+								"count": 500
+							},
+							{
+								"name": "Blue3_JewelEye",
+								"count": 581
+							},
+							{
+								"name": "Orange1_WideEye",
+								"count": 650
+							}
+						]
+					},
+					{
+						"layer": "Clothes",
+						"folder": "Clothes/",
+						"options": [
+							{
+								"name": "Gray_Jackek_Purple_Shirt",
+								"count": 550
+							},
+							{
+								"name": "Tux",
+								"count": 100
+							},
+							{
+								"name": "Green_Tank_Top",
+								"count": 550
+							},
+							{
+								"name": "Gray_Jacket_Gray_Shirt",
+								"count": 550
+							},
+							{
+								"name": "Green_Button_Up",
+								"count": 450
+							},
+							{
+								"name": "Gray_xMooney_Shirt",
+								"count": 350
+							},
+							{
+								"name": "Red_Tank_Top",
+								"count": 550
+							},
+							{
+								"name": "Tie_Dye_Hoodie",
+								"count": 219
+							},
+							{
+								"name": "White_Hoodie_Big_Chain",
+								"count": 350
+							},
+							{
+								"name": "Blue_Hawaiian_Shirt",
+								"count": 350
+							},
+							{
+								"name": "Red_Hawaiian_Shirt",
+								"count": 350
+							},
+							{
+								"name": "White_Hoodie_Cross_Chain",
+								"count": 250
+							},
+							{
+								"name": "Green_xMooney_Shirt",
+								"count": 481
+							},
+							{
+								"name": "Blank",
+								"count": 1550
+							}
+						]
+					},
+					{
+						"layer": "Hat",
+						"folder": "Hat/",
+						"options": [
+							{
+								"name": "Crown_Gold",
+								"count": 59
+							},
+							{
+								"name": "Mohawk_Red",
+								"count": 400
+							},
+							{
+								"name": "Mohawk_Blue",
+								"count": 160
+							},
+							{
+								"name": "HardHat_xMooney",
+								"count": 500
+							},
+							{
+								"name": "HardHat_Camo",
+								"count": 351
+							},
+							{
+								"name": "Cowboy_Hat",
+								"count": 320
+							},
+							{
+								"name": "Blue_Hair_Red_Bandana",
+								"count": 400
+							},
+							{
+								"name": "On_Head_Sunglasses",
+								"count": 420
+							},
+							{
+								"name": "White_Beanie",
+								"count": 400
+							},
+							{
+								"name": "Black_Hodl_Bucket_Hat",
+								"count": 320
+							},
+							{
+								"name": "xMooney _Cap",
+								"count": 300
+							},
+							{
+								"name": "Black_Bucket_Hat",
+								"count": 320
+							},
+							{
+								"name": "Black_Bandana",
+								"count": 200
+							},
+							{
+								"name": "Black_Green_Top_Hat",
+								"count": 500
+							},
+							{
+								"name": "Brown_Fedora",
+								"count": 300
+							},
+							{
+								"name": "Black_Beanie",
+								"count": 300
+							},
+							{
+								"name": "Black_Top_Hat",
+								"count": 200
+							},
+							{
+								"name": "Blank",
+								"count": 1200
+							}
+						]
+					},
+					{
+						"layer": "Mouths",
+						"folder": "Mouths/",
+						"options": [
+							{
+								"name": "Smoke1",
+								"count": 200
+							},
+							{
+								"name": "Smoke2",
+								"count": 200
+							},
+							{
+								"name": "Smile1",
+								"count": 1200
+							},
+							{
+								"name": "Smoke3",
+								"count": 100
+							},
+							{
+								"name": "Angry1",
+								"count": 931
+							},
+							{
+								"name": "Fangs1",
+								"count": 1200
+							},
+							{
+								"name": "Blank",
+								"count": 2819
+							}
+						]
+					},
+					{
+						"layer": "Accessories",
+						"folder": "Accessories/",
+						"options": [
+							{
+								"name": "Pizza",
+								"count": 400
+							},
+							{
+								"name": "xMooney_Coin",
+								"count": 100
+							},
+							{
+								"name": "xMooney_Bag",
+								"count": 300
+							},
+							{
+								"name": "xMooney_Balloon",
+								"count": 400
+							},
+							{
+								"name": "Controller",
+								"count": 400
+							},
+							{
+								"name": "Tie",
+								"count": 400
+							},
+							{
+								"name": "Fishing_Pole",
+								"count": 300
+							},
+							{
+								"name": "Riffle",
+								"count": 400
+							},
+							{
+								"name": "Gas_Mask",
+								"count": 250
+							},
+							{
+								"name": "xMooney_Glasses",
+								"count": 300
+							},
+							{
+								"name": "xMooney_Beer",
+								"count": 400
+							},
+							{
+								"name": "Sunglasses1",
+								"count": 150
+							},
+							{
+								"name": "Sunglasses2",
+								"count": 400
+							},
+							{
+								"name": "Sunglasses3",
+								"count": 400
+							},
+							{
+								"name": "Blank",
+								"count": 2050
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Female",
+				"folder": "Female/",
+				"max": 3000,
+				"meta": [
+					{
+						"property": "Martian Level",
+						"options": [
+							{
+								"name": "Galaxy",
+								"count": 1800
+							},
+							{
+								"name": "Nebula",
+								"count": 800
+							},
+							{
+								"name": "Supernova",
+								"count": 400
+							}
+						]
+					}
+				],
+				"layers": [
+					{
+						"layer": "Background",
+						"folder": "Background/",
+						"options": [
+							{
+								"name": "Paisley",
+								"count": 100
+							},
+							{
+								"name": "Intergalactic1",
+								"count": 100
+							},
+							{
+								"name": "Intergalactic2",
+								"count": 20
+							},
+							{
+								"name": "Orange1",
+								"count": 300
+							},
+							{
+								"name": "Red1",
+								"count": 200
+							},
+							{
+								"name": "Purple1",
+								"count": 250
+							},
+							{
+								"name": "Red2",
+								"count": 250
+							},
+							{
+								"name": "Yellow1",
+								"count": 250
+							},
+							{
+								"name": "Purple2",
+								"count": 250
+							},
+							{
+								"name": "Orange2",
+								"count": 180
+							},
+							{
+								"name": "Intergalactic3",
+								"count": 100
+							},
+							{
+								"name": "Green1",
+								"count": 250
+							},
+							{
+								"name": "Yellow2",
+								"count": 250
+							},
+							{
+								"name": "Blue1",
+								"count": 250
+							},
+							{
+								"name": "Blue2",
+								"count": 250
+							}
+						]
+					},
+					{
+						"layer": "Base",
+						"folder": "Base/",
+						"options": [
+							{
+								"name": "White1_JewelEye",
+								"count": 100
+							},
+							{
+								"name": "Pink1_JewelEye",
+								"count": 500
+							},
+							{
+								"name": "Red1_WideJewelEye",
+								"count": 200
+							},
+							{
+								"name": "Green1_JewelEye",
+								"count": 500
+							},
+							{
+								"name": "Green2_WideJewelEye",
+								"count": 200
+							},
+							{
+								"name": "Blue1_JewelEye",
+								"count": 200
+							},
+							{
+								"name": "Green3_JewelEye",
+								"count": 500
+							},
+							{
+								"name": "Green4_WideJewelEye",
+								"count": 500
+							},
+							{
+								"name": "Pink2_WideJewelEye",
+								"count": 100
+							},
+							{
+								"name": "Blue2_JewleEye",
+								"count": 200
+							}
+						]
+					},
+					{
+						"layer": "Clothes",
+						"folder": "Clothes/",
+						"options": [
+							{
+								"name": "Hologram_Tank",
+								"count": 150
+							},
+							{
+								"name": "Holoram_Strapless_Dress",
+								"count": 150
+							},
+							{
+								"name": "Red_Kimono",
+								"count": 250
+							},
+							{
+								"name": "Pink_Suspenders",
+								"count": 250
+							},
+							{
+								"name": "Hologram_Suspenders",
+								"count": 50
+							},
+							{
+								"name": "Pink_Kimono",
+								"count": 250
+							},
+							{
+								"name": "Red_Strapped_Dress",
+								"count": 200
+							},
+							{
+								"name": "Pink_Strapped_Dress",
+								"count": 200
+							},
+							{
+								"name": "White_Strapless_Dress",
+								"count": 200
+							},
+							{
+								"name": "Pink_Strapless_Dress",
+								"count": 200
+							},
+							{
+								"name": "Green_Tank_Top",
+								"count": 200
+							},
+							{
+								"name": "Gray_Dress",
+								"count": 200
+							},
+							{
+								"name": "Blue_Strapless_Dress",
+								"count": 200
+							},
+							{
+								"name": "Black_Dress",
+								"count": 200
+							},
+							{
+								"name": "Blank",
+								"count": 300
+							}
+						]
+					},
+					{
+						"layer": "Hat",
+						"folder": "Hat/",
+						"options": [
+							{
+								"name": "Crown_Silver",
+								"count": 50
+							},
+							{
+								"name": "Crown_Pink ",
+								"count": 20
+							},
+							{
+								"name": "Black_Cap_Purple_Hair",
+								"count": 200
+							},
+							{
+								"name": "MJ_Hair_Purple",
+								"count": 100
+							},
+							{
+								"name": "Hair_Red_Green_Headphones",
+								"count": 100
+							},
+							{
+								"name": "Black_Afro",
+								"count": 200
+							},
+							{
+								"name": "Hologram_Bun",
+								"count": 100
+							},
+							{
+								"name": "Blue_Hair_Pink_Headphones",
+								"count": 100
+							},
+							{
+								"name": "Gray_Beanie_Red_Hair",
+								"count": 200
+							},
+							{
+								"name": "Blue_Curly_Hair",
+								"count": 200
+							},
+							{
+								"name": "Tall_Pink_Hair",
+								"count": 200
+							},
+							{
+								"name": "Hologram_Pigtails",
+								"count": 100
+							},
+							{
+								"name": "Pink_Bun",
+								"count": 200
+							},
+							{
+								"name": "Long_Green_Hair",
+								"count": 200
+							},
+							{
+								"name": "Short_Green_Hair",
+								"count": 200
+							},
+							{
+								"name": "Gray_Hair_Red_Horns",
+								"count": 100
+							},
+							{
+								"name": "Pink_Cap_Red_Hair",
+								"count": 200
+							},
+							{
+								"name": "Long_Blue_Hair",
+								"count": 230
+							},
+							{
+								"name": "Blank",
+								"count": 300
+							}
+						]
+					},
+					{
+						"layer": "Mouths",
+						"folder": "Mouths/",
+						"options": [
+							{
+								"name": "Pink_Lips_Smile",
+								"count": 660
+							},
+							{
+								"name": "Green_Bite_Lip",
+								"count": 400
+							},
+							{
+								"name": "Pink_Bite_Lip",
+								"count": 80
+							},
+							{
+								"name": "Blue_Green_MJ_Tounge",
+								"count": 400
+							},
+							{
+								"name": "Blue_Lick_Lips",
+								"count": 660
+							},
+							{
+								"name": "Blank",
+								"count": 800
+							}
+						]
+					},
+					{
+						"layer": "Accessories",
+						"folder": "Accessories/",
+						"options": [
+							{
+								"name": "FAC1",
+								"count": 300
+							},
+							{
+								"name": "FAC2",
+								"count": 300
+							},
+							{
+								"name": "FAC3",
+								"count": 200
+							},
+							{
+								"name": "FAC4",
+								"count": 300
+							},
+							{
+								"name": "FAC5",
+								"count": 100
+							},
+							{
+								"name": "FAC6",
+								"count": 300
+							},
+							{
+								"name": "FAC7",
+								"count": 200
+							},
+							{
+								"name": "FAC8",
+								"count": 300
+							},
+							{
+								"name": "Blank",
+								"count": 1000
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Hyper Female",
+				"folder": "Hyper Female/",
+				"max": 75,
+				"meta": [
+					{
+						"property": "Martian Level",
+						"options": [
+							{
+								"name": "Hyper Rare",
+								"count": 75
+							}
+						]
+					}
+				],
+				"layers": [
+					{
+						"layer": "Background",
+						"folder": "Background/",
+						"options": [
+							{
+								"name": "White_xMooney",
+								"count": 25
+							},
+							{
+								"name": "Pink_xMooney",
+								"count": 20
+							},
+							{
+								"name": "Pink_Diamond",
+								"count": 15
+							},
+							{
+								"name": "Gathering_Orange_Pink",
+								"count": 10
+							},
+							{
+								"name": "Gathering_Pink",
+								"count": 5
+							}
+						]
+					},
+					{
+						"layer": "Base",
+						"folder": "Base/",
+						"options": [
+							{
+								"name": "Molten_Gold",
+								"count": 20
+							},
+							{
+								"name": "Molten_Platinum",
+								"count": 20
+							},
+							{
+								"name": "Steel",
+								"count": 25
+							},
+							{
+								"name": "Gold",
+								"count": 5
+							},
+							{
+								"name": "Platinum",
+								"count": 5
+							}
+						]
+					},
+					{
+						"layer": "Eyes",
+						"folder": "Eyes/",
+						"options": [
+							{
+								"name": "F_Bitcoin_Eyes",
+								"count": 15
+							},
+							{
+								"name": "F_Eth_Eyes",
+								"count": 15
+							},
+							{
+								"name": "F_Doge_Eyes",
+								"count": 15
+							},
+							{
+								"name": "F_Raven_Eyes",
+								"count": 15
+							}
+						]
+					},
+					{
+						"layer": "Clothes",
+						"folder": "Clothes/",
+						"options": [
+							{
+								"name": "Black_Hoodie",
+								"count": 15
+							},
+							{
+								"name": "Purple_Halter_Top",
+								"count": 15
+							},
+							{
+								"name": "Blue_BallDress",
+								"count": 5
+							},
+							{
+								"name": "Green_SummerDress",
+								"count": 5
+							},
+							{
+								"name": "Black_CottonDress",
+								"count": 5
+							},
+							{
+								"name": "Purple_SunDress",
+								"count": 10
+							},
+							{
+								"name": "Hologram_NightDress",
+								"count": 5
+							},
+							{
+								"name": "Blank",
+								"count": 15
+							}
+						]
+					},
+					{
+						"layer": "Hat",
+						"folder": "Hat/",
+						"options": [
+							{
+								"name": "Blue_Cap_Pink_Hair",
+								"count": 10
+							},
+							{
+								"name": "Purple_Long_Hair",
+								"count": 10
+							},
+							{
+								"name": "Cowgirl_Hat",
+								"count": 5
+							},
+							{
+								"name": "Pink_Mask",
+								"count": 5
+							},
+							{
+								"name": "Soul_Afro",
+								"count": 5
+							},
+							{
+								"name": "CryptoCore_Headphones1",
+								"count": 5
+							},
+							{
+								"name": "Purple_Horns",
+								"count": 5
+							},
+							{
+								"name": "Queen_Crown",
+								"count": 5
+							},
+							{
+								"name": "Black_Hair_Pony_Tail",
+								"count": 5
+							},
+							{
+								"name": "Blank",
+								"count": 20
+							}
+						]
+					},
+					{
+						"layer": "Mouths",
+						"folder": "Mouths/",
+						"options": [
+							{
+								"name": "Gold_Lips",
+								"count": 15
+							},
+							{
+								"name": "Blood_Red_Lips",
+								"count": 20
+							},
+							{
+								"name": "Pink_Glitter_Bite_Lip",
+								"count": 10
+							},
+							{
+								"name": "Blank",
+								"count": 30
+							}
+						]
+					},
+					{
+						"layer": "Accessories",
+						"folder": "Accessories/",
+						"options": [
+							{
+								"name": "Flower_Lay",
+								"count": 10
+							},
+							{
+								"name": "Septer",
+								"count": 5
+							},
+							{
+								"name": "Purple_Choker",
+								"count": 10
+							},
+							{
+								"name": "Joint",
+								"count": 15
+							},
+							{
+								"name": "Diamond_Choker",
+								"count": 5
+							},
+							{
+								"name": "Sunglasses4",
+								"count": 10
+							},
+							{
+								"name": "Earpods",
+								"count": 5
+							},
+							{
+								"name": "Yellow_Eth_Coin",
+								"count": 5
+							},
+							{
+								"name": "Blank",
+								"count": 10
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Hyper Male",
+				"folder": "Hyper Male/",
+				"max": 75,
+				"meta": [
+					{
+						"property": "Martian Level",
+						"options": [
+							{
+								"name": "Hyper Rare",
+								"count": 75
+							}
+						]
+					}
+				],
+				"layers": [
+					{
+						"layer": "Background",
+						"folder": "Background/",
+						"options": [
+							{
+								"name": "White_xMooney",
+								"count": 25
+							},
+							{
+								"name": "Platinum_Martian",
+								"count": 20
+							},
+							{
+								"name": "Black_xMooney",
+								"count": 15
+							},
+							{
+								"name": "Trippy",
+								"count": 10
+							},
+							{
+								"name": "Gathering_Blue",
+								"count": 5
+							}
+						]
+					},
+					{
+						"layer": "Base",
+						"folder": "Base/",
+						"options": [
+							{
+								"name": "Molten_Gold",
+								"count": 15
+							},
+							{
+								"name": "Molten_Platinum",
+								"count": 15
+							},
+							{
+								"name": "Steel",
+								"count": 15
+							},
+							{
+								"name": "Gold",
+								"count": 15
+							},
+							{
+								"name": "Platinum",
+								"count": 15
+							}
+						]
+					},
+					{
+						"layer": "Eyes",
+						"folder": "Eyes/",
+						"options": [
+							{
+								"name": "M_Bitcoin_Eyes",
+								"count": 15
+							},
+							{
+								"name": "M_Eth_Eyes",
+								"count": 15
+							},
+							{
+								"name": "M_Doge_Eyes",
+								"count": 15
+							},
+							{
+								"name": "M_Raven_Eyes",
+								"count": 15
+							}
+						]
+					},
+					{
+						"layer": "Clothes",
+						"folder": "Clothes/",
+						"options": [
+							{
+								"name": "Black_Cardinal_Robe",
+								"count": 5
+							},
+							{
+								"name": "Blue_Suit",
+								"count": 5
+							},
+							{
+								"name": "Gray_Tee_Shirt",
+								"count": 12
+							},
+							{
+								"name": "Black_Red_Hoodie",
+								"count": 12
+							},
+							{
+								"name": "Capt_Jacket",
+								"count": 5
+							},
+							{
+								"name": "Army_Dress_Uniform",
+								"count": 9
+							},
+							{
+								"name": "Cowboy_Jacket",
+								"count": 12
+							},
+							{
+								"name": "Blank",
+								"count": 15
+							}
+						]
+					},
+					{
+						"layer": "Hat",
+						"folder": "Hat/",
+						"options": [
+							{
+								"name": "Black_Cap",
+								"count": 5
+							},
+							{
+								"name": "Yellow_HardHat",
+								"count": 10
+							},
+							{
+								"name": "Football_Helmet",
+								"count": 5
+							},
+							{
+								"name": "Viking_Helmet",
+								"count": 10
+							},
+							{
+								"name": "Cardinal_Hat",
+								"count": 5
+							},
+							{
+								"name": "King_Crown",
+								"count": 5
+							},
+							{
+								"name": "Black_Fadora ",
+								"count": 5
+							},
+							{
+								"name": "CryptoCore_Headphones2",
+								"count": 10
+							},
+							{
+								"name": "Brain_Dome",
+								"count": 5
+							},
+							{
+								"name": "Sheriffs_Hat",
+								"count": 5
+							},
+							{
+								"name": "Blank",
+								"count": 10
+							}
+						]
+					},
+					{
+						"layer": "Mouths",
+						"folder": "Mouths/",
+						"options": [
+							{
+								"name": "Gold_Top_Teeth",
+								"count": 15
+							},
+							{
+								"name": "Gold_Grill_King_Lips",
+								"count": 10
+							},
+							{
+								"name": "Diamond_Teeth",
+								"count": 20
+							},
+							{
+								"name": "Blank",
+								"count": 30
+							}
+						]
+					},
+					{
+						"layer": "Accessories",
+						"folder": "Accessories/",
+						"options": [
+							{
+								"name": "Guitar",
+								"count": 5
+							},
+							{
+								"name": "Yellow_Eth_Coin",
+								"count": 5
+							},
+							{
+								"name": "Hologram_Pick_Axe",
+								"count": 10
+							},
+							{
+								"name": "Africa_Chain",
+								"count": 10
+							},
+							{
+								"name": "Ace_of_Spades_Bottle",
+								"count": 5
+							},
+							{
+								"name": "Googles",
+								"count": 5
+							},
+							{
+								"name": "Septer",
+								"count": 5
+							},
+							{
+								"name": "BC_Glasses",
+								"count": 5
+							},
+							{
+								"name": "Joint",
+								"count": 10
+							},
+							{
+								"name": "Blank",
+								"count": 15
+							}
+						]
+					}
+				]
+			}
+		],
+		"extras": {
+			"tiers": [
+				{
+					"type": 1
+				}
+			]
+		}
+	}
+}

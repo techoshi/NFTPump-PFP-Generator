@@ -1,0 +1,98 @@
+ pip install Pillow ##
+
+ python.exe stitch.py [-h] 'backgrounds/' 'dinos/' 'traits/' 'texture/traits1632707924883.png' 'output/'
+
+ python.exe src/_AGen.py true 'src/xMooneyCollection/' 'xMartiansGenerator.json' 100
+ python.exe src/_AGen.py true 'src/OJ/' 'oj.json' 100
+ 
+python.exe src/_AGen.py true true 2.22 0 'src/collections/xMooney Collection 1/' 'xMartiansGenerator-hyper-male.json' 1024 1024 175
+python.exe src/_AGen.py true true 1.15 0 'src/collections/xMooney Collection 1/' 'xMartiansGenerator-male.json' 1024 1024 6650
+python.exe src/_AGen.py true true 1.12 0 'src/collections/xMooney Collection 1/' 'xMartiansGenerator-female.json' 1024 1024 3000
+python.exe src/_AGen.py true true 1.21 0 'src/collections/xMooney Collection 1/' 'xMartiansGenerator-hyper-female.json' 1024 1024 75
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/Degen Doods/' 'dgen.json' 1000 1000 5555
+python.exe src/_AGen.py true true 1.12 0 'src/collections/Cthulhu/' 'run.json' 1254 1211 2500
+python.exe src/_AGen.py true true 1.12 0 'src/collections/Cthulhu/' 'Cthulhu.json' 1940 1940 2500
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/StuffyBunny/' 'run.json' 1050 1250 3250
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/xMooneyCollection/' 'xMartiansGenerator.json' 2048 2048 10000
+python.exe src/_AGen.py true true 1.12 0 'src/collections/xMooney Collection 1/' 'xMartiansGenerator.json' 1024 1024 10000
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/OJ/' 'oj.json' 2048 2048 10000
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-All Female.json' 2360 1640 50
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-All Male.json' 2360 1640 50
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Christmas.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Devil.json' 2360 1640 20 
+
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Angel.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Angel.json' 2360 1640 20
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Japanese.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Japanese.json' 1180 820 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Space.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Thanksgiving.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Thanksgiving.json' 1180 820 20
+
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Angel.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Angel.json' 1180 820 20
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Christmas.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Christmas.json' 1180 820 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Devil.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Japanese.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Japanese.json' 1180 820 20
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Female Japanese.json' 1180 820 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Space.json.json' 2360 1640 20
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFT Folder/' 'WTForks-Male Thanksgiving.json' 2360 1640 20
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Afro Head.json' 2360 1640 210
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Afro Head.json' 2360 1640 210
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Crown.json' 2360 1640 150
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Crown.json' 2360 1640 150
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Christmas.json' 2360 1640 36
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Christmas.json' 2360 1640 36
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Japanese.json' 2360 1640 45
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Japanese.json' 2360 1640 45
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Cake Head.json' 2360 1640 331
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Cake Head.json' 2360 1640 331
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Space.json' 2360 1640 7
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Space.json' 2360 1640 7
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Dread Head.json' 2360 1640 162
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Dread Head.json' 2360 1640 162
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Pizza Head.json' 2360 1640 814
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Pizza Head.json' 2360 1640 814
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Pizza Head.json' 2360 1640 814
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Curly Head.json' 2360 1640 491
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Curly Head.json' 2360 1640 491
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Devil.json' 2360 1640 7
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Devil.json' 2360 1640 7
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Backwards Bent Head.json' 2360 1640 555
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Backwards Bent Head.json' 2360 1640 555
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Backwards Bent Head.json' 2360 1640 555
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Sweatband.json' 2360 1640 172
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Sweatband.json' 2360 1640 172
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Bravo Head.json' 2360 1640 160
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Pigtail Head.json' 2360 1640 160
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Pigtail Head.json' 2360 1640 160
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Angel.json' 2360 1640 7
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Angel.json' 2360 1640 7
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Samurai.json' 2360 1640 45 
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Samurai.json' 2360 1640 45
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Forward Bent.json' 2360 1640 635
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Forward Bent.json' 2360 1640 635
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Basic Head.json' 2360 1640 635
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Basic Head.json' 2360 1640 635
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Female Thanksgiving.json' 2360 1640 29
+python.exe src/_AGen.py true true 1.12 0 'src/collections/WTF/' 'WTForks-Male Thanksgiving.json' 2360 1640 29
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/NFTCC/' 'NFTCC-Males.json' 3326 3326 10
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/TMC/' 'TMC.json' 2000 2000 3333
+
+python.exe src/_AGen.py true true 1.12 0 'src/collections/Bearing Bears/' 'Bearing Bears.json' 3000 3000 1000
+

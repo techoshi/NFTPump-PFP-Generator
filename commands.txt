@@ -1,0 +1,6 @@
+C:\Users\joser\OneDrive\Documents\GitHub\pfpgen
+
+python.exe src/_AGen.py true true 1.2 0 'src/collections/xMooneyMale/' 'xMartiansMale.json' 900 900 6650
+python.exe src/_AGen.py true true 1.2 6650 'src/collections/xMooneyFemale/' 'xMartiansFemale.json' 900 900 3000
+python.exe src/_AGen.py true true 1.2 9650 'src/collections/xMooneyHyperFemale/' 'xMartiansHyperFemale.json' 900 900 75
+python.exe src/_AGen.py true true 1.2 9725 'src/collections/xMooneyHyperMale/' 'xMartiansHyperMale.json' 900 900 75
